@@ -1,0 +1,277 @@
+{
+  "settings": {
+    "Current Layout": 2,
+    "Expert Mode": false,
+    "Board Mode": 0,
+    "Notch": 0,
+    "Analog Read Vert Scale": 5,
+    "Analog Read": false,
+    "Digital Read": false,
+    "Analog Read Horiz Scale": 0,
+    "Framerate": 1,
+    "Marker Mode": false,
+    "Bandpass Filter": 1,
+    "Pulse Analog Read": false,
+    "Accelerometer Mode": true
+  },
+  "bandPower": {"activeChannels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ]},
+  "widget": {
+    "Widget_0": 3,
+    "Widget_1": 1,
+    "Widget_7": 7,
+    "Widget_3": 9
+  },
+  "dataInfo": {
+    "Data Source": 0,
+    "Channels": 16
+  },
+  "focus": {
+    "Focus_keypress": 0,
+    "Focus_theme": 0
+  },
+  "networking": {
+    "LSL_numchan2": "16",
+    "LSL_DataType3": 0,
+    "LSL_DataType2": 0,
+    "LSL_numchan3": "16",
+    "LSL_filter3": 0,
+    "LSL_filter2": 0,
+    "LSL_DataType1": 2,
+    "LSL_numchan1": "16",
+    "LSL_name1": "obci_eeg1",
+    "LSL_name2": "obci_eeg2",
+    "LSL_name3": "obci_eeg3",
+    "LSL_filter1": 1,
+    "Protocol": 1,
+    "LSL_type3": "EEG",
+    "LSL_type2": "EEG",
+    "LSL_type1": "EEG"
+  },
+  "headplot": {
+    "HP_smoothing": 3,
+    "HP_intensity": 2,
+    "HP_polarity": 0,
+    "HP_contours": 0
+  },
+  "ssvep": {
+    "SSVEP_frequencies": {"SSVEP_0": 0},
+    "NumSSVEPs": 1,
+    "activeChannels": [
+      7,
+      8
+    ]
+  },
+  "version": {
+    "settings": "1.0.5",
+    "gui": "v4.2.0"
+  },
+  "timeSeries": {
+    "Time Series Vert Scale": 0,
+    "Time Series Horiz Scale": 2,
+    "channelSettings": [
+      {
+        "Channel_Number": 1,
+        "Active": 1,
+        "Input Type": 0,
+        "Bias": 0,
+        "SRB1": 0,
+        "SRB2": 0,
+        "PGA Gain": 6
+      },
+      {
+        "Channel_Number": 2,
+        "Active": 0,
+        "Input Type": 0,
+        "Bias": 1,
+        "SRB1": 0,
+        "SRB2": 1,
+        "PGA Gain": 6
+      },
+      {
+        "Channel_Number": 3,
+        "Active": 0,
+        "Input Type": 0,
+        "Bias": 1,
+        "SRB1": 0,
+        "SRB2": 1,
+        "PGA Gain": 6
+      },
+      {
+        "Channel_Number": 4,
+        "Active": 0,
+        "Input Type": 0,
+        "Bias": 1,
+        "SRB1": 0,
+        "SRB2": 1,
+        "PGA Gain": 6
+      },
+      {
+        "Channel_Number": 5,
+        "Active": 0,
+        "Input Type": 0,
+        "Bias": 1,
+        "SRB1": 0,
+        "SRB2": 1,
+        "PGA Gain": 6
+      },
+      {
+        "Channel_Number": 6,
+        "Active": 0,
+        "Input Type": 0,
+        "Bias": 1,
+        "SRB1": 0,
+        "SRB2": 1,
+        "PGA Gain": 6
+      },
+      {
+        "Channel_Number": 7,
+        "Active": 1,
+        "Input Type": 0,
+        "Bias": 0,
+        "SRB1": 0,
+        "SRB2": 0,
+        "PGA Gain": 6
+      },
+      {
+        "Channel_Number": 8,
+        "Active": 1,
+        "Input Type": 0,
+        "Bias": 0,
+        "SRB1": 0,
+        "SRB2": 0,
+        "PGA Gain": 6
+      },
+      {
+        "Channel_Number": 9,
+        "Active": 1,
+        "Input Type": 0,
+        "Bias": 0,
+        "SRB1": 0,
+        "SRB2": 0,
+        "PGA Gain": 6
+      },
+      {
+        "Channel_Number": 10,
+        "Active": 1,
+        "Input Type": 0,
+        "Bias": 0,
+        "SRB1": 0,
+        "SRB2": 0,
+        "PGA Gain": 6
+      },
+      {
+        "Channel_Number": 11,
+        "Active": 1,
+        "Input Type": 0,
+        "Bias": 0,
+        "SRB1": 0,
+        "SRB2": 0,
+        "PGA Gain": 6
+      },
+      {
+        "Channel_Number": 12,
+        "Active": 1,
+        "Input Type": 0,
+        "Bias": 0,
+        "SRB1": 0,
+        "SRB2": 0,
+        "PGA Gain": 6
+      },
+      {
+        "Channel_Number": 13,
+        "Active": 1,
+        "Input Type": 0,
+        "Bias": 0,
+        "SRB1": 0,
+        "SRB2": 0,
+        "PGA Gain": 6
+      },
+      {
+        "Channel_Number": 14,
+        "Active": 1,
+        "Input Type": 0,
+        "Bias": 0,
+        "SRB1": 0,
+        "SRB2": 0,
+        "PGA Gain": 6
+      },
+      {
+        "Channel_Number": 15,
+        "Active": 1,
+        "Input Type": 0,
+        "Bias": 0,
+        "SRB1": 0,
+        "SRB2": 0,
+        "PGA Gain": 6
+      },
+      {
+        "Channel_Number": 16,
+        "Active": 1,
+        "Input Type": 0,
+        "Bias": 0,
+        "SRB1": 0,
+        "SRB2": 0,
+        "PGA Gain": 6
+      }
+    ]
+  },
+  "spectrogram": {
+    "activeChannelsBot": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      14,
+      16
+    ],
+    "Spectrogram_Sample Rate": 2,
+    "Spectrogram_Max Freq": 1,
+    "Spectrogram_LogLin": 0,
+    "activeChannelsTop": [
+      1,
+      3,
+      5,
+      7,
+      9,
+      11,
+      13,
+      15
+    ]
+  },
+  "fft": {
+    "FFT_LogLin": 0,
+    "FFT_Max Freq": 1,
+    "FFT_Filter": 0,
+    "FFT_Max uV": 0,
+    "FFT_Smoothing": 1
+  },
+  "accelerometer": {
+    "Accelerometer Vert Scale": 0,
+    "Accelerometer Horiz Scale": 0
+  },
+  "emg": {
+    "EMG_creepspeed": 3,
+    "EMG_minuV": 1,
+    "EMG_uVlimit": 2,
+    "EMG_smoothing": 4
+  }
+}

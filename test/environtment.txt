@@ -1,0 +1,16 @@
+
+F:\pak anam sem3\versi 1\mode2_eye_eeg> cmd /C "C:\Users\suharto\Anaconda3\envs\tensorflow2\python.exe c:\Users\suharto\.vscode\extensions\ms-python.python-2020.9.112786\pythonFiles\lib\python\debugpy\launcher 51404 -- "f:\pak anam sem3\versi 1\mode2_eye_eeg\eyetrack.py" "
+
+
+pip install pyrebase
+pip install tensorflow
+pip install matplotlib
+pip  install pandas
+pip install  opencv-python
+python -m pip install https://files.pythonhosted.org/packages/0e/ce/f8a3cff33ac03a8219768f0694c5d703c8e037e6aba2e865f9bae22ed63c/dlib-19.8.1-cp36-cp36m-win_amd64.whl#sha256=794994fa2c54e7776659fddb148363a5556468a6d5d46be8dad311722d54bfcf
+pip install pyttsx3
+pip install SpeechRecognition
+pip install PyAutoGUI
+pip install playsound
+pip install PyAudio
+pip install gTTS
